@@ -3,32 +3,14 @@
 **Kolhapur, Maharashtra, India**  
 📞 +91 9356907874  
 📧 [katkarvivek0@gmail.com](mailto:katkarvivek0@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/vivek-katkar) | [GitHub](https://github.com/vivekkatkar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vivek-katkar) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/vivekkatkar)
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm Vivek Shivaji Katkar, a dedicated student of Computer Science and Engineering at Walchand College of Engineering, Sangli. My journey through academic excellence and internships has equipped me with a strong foundation in web and mobile application development.
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science And Engineering**  
-  *Walchand College Of Engineering, Sangli*  
-  **CGPA**: 10.0  
-  *July 2023 – July 2026*
-
-- **Diploma in Information Technology**  
-  *Government Polytechnic Kolhapur*  
-  **Aggregate**: 96.12%  
-  *July 2020 – July 2023*
-
-- **SSC (Class X)**  
-  *A. Mahadik Highschool Durgmanvwad, Kolhapur*  
-  **Percentage**: 96.20%  
-  *July 2019 – July 2020*
+Hello! I'm Vivek Shivaji Katkar, a dedicated student of Computer Science and Engineering at Walchand College of Engineering, Sangli. My journey through academic excellence and internships has equipped me with a strong foundation in web and mobile application development. I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains in tech.
 
 ---
 
@@ -43,10 +25,16 @@ Hello! I'm Vivek Shivaji Katkar, a dedicated student of Computer Science and Eng
 
 ## 🏆 Coding Profiles
 
-- **Leetcode**: [katkarvivek0](https://leetcode.com/katkarvivek0)
-- **Codechef**: [viki2711](https://www.codechef.com/users/viki2711)
-- **Codeforces**: [vivek2711](https://codeforces.com/profile/vivek2711)
-- **GeeksforGeeks**: [coderviki](https://auth.geeksforgeeks.org/user/coderviki)
+[![Leetcode](https://img.shields.io/badge/Leetcode-katkarvivek0-yellow)](https://leetcode.com/vivek3054) 
+[![Codechef](https://img.shields.io/badge/Codechef-viki2711-brown)](https://www.codechef.com/users/viki2711) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-vivek2711-blue)](https://codeforces.com/profile/vivek2711) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-coderviki-green)](https://auth.geeksforgeeks.org/user/coderviki)
+
+---
+
+## 🚀 Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/vivek3054?theme=dark&font=Roboto&ext=contest)
 
 ---
 
@@ -57,8 +45,3 @@ Feel free to reach out via [email](mailto:katkarvivek0@gmail.com) or connect wit
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkatkar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkatkar&layout=compact&theme=radical)
