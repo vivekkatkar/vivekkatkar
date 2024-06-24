@@ -3,7 +3,7 @@
 **Kolhapur, Maharashtra, India**  
 📞 +91 9356907874  
 📧 [katkarvivek0@gmail.com](mailto:katkarvivek0@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([https://www.linkedin.com/in/vivek-katkar](https://www.linkedin.com/in/vivek-katkar-81a4b41b4/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vivek-katkar-81a4b41b4/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/vivekkatkar)
 
 ---
